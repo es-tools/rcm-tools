@@ -19,7 +19,7 @@
     "url": "https://github.com/es-tools/rcm-tools/issues"
   },
   "homepage": "https://github.com/es-tools/rcm-tools#readme",
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.2.2",
     "@babel/plugin-proposal-class-properties": "^7.3.0",
     "@babel/plugin-proposal-decorators": "^7.3.0",
@@ -60,6 +60,5 @@
     "webpack-bundle-analyzer": "^3.0.4",
     "webpack-cli": "^3.2.3",
     "webpack-merge": "^4.2.1"
-  },
-  "dependencies": {}
+  }
 }
